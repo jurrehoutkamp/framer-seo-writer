@@ -34,4 +34,5 @@ If a current session already used the skill, start a new session so the updated 
 
 - Framer feature, solution, comparison, and answer-oriented pages
 - SEO/AEO structure, metadata, FAQs, and internal linking
+- Anti-slop editing to avoid generic AI-sounding marketing copy
 - Product-specific positioning for Framer AI, Framer Agents, CMS, hosting, SEO, performance, and publishing

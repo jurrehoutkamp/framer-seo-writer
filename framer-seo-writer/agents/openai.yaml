@@ -1,4 +1,4 @@
 interface:
   display_name: "Framer SEO Writer"
-  short_description: "Write Framer pages for search and answer engines"
+  short_description: "Write sharp Framer SEO/AEO copy"
   default_prompt: "Use $framer-seo-writer to draft a Framer AI website builder page for SEO and AEO."

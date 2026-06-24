@@ -1,6 +1,6 @@
 ---
 name: framer-seo-writer
-description: Write, revise, or optimize Framer marketing copy for SEO and answer engines. Use when creating Framer feature pages, solution pages, comparison pages, answer-oriented pages, metadata, FAQs, schema-ready copy, internal linking plans, or copy audits for Framer, Framer AI, Framer Agents, CMS, hosting, SEO, performance, design, Branching, Remix, or External Agents.
+description: Write, revise, or optimize Framer marketing copy for SEO and answer engines while avoiding generic AI-sounding copy. Use when creating Framer feature pages, solution pages, comparison pages, answer-oriented pages, metadata, FAQs, schema-ready copy, internal linking plans, or copy audits for Framer, Framer AI, Framer Agents, CMS, hosting, SEO, performance, design, Branching, Remix, or External Agents.
 ---
 
 # Framer SEO Writer
@@ -25,7 +25,7 @@ For public-facing or publish-ready work, verify dated launch metrics, current pr
 4. Connect Framer's creation workflow to production work: prompt or canvas, visual editing, CMS, branching or review, publishing, SEO, analytics, and optimization.
 5. Use Framer-specific surfaces and nouns instead of generic benefits.
 6. Add internal links that route readers to the relevant Framer product area.
-7. Finish with a quality pass against the checklist in this skill.
+7. Finish with the anti-slop pass and quality checklist in this skill.
 
 ## Positioning
 
@@ -66,6 +66,34 @@ Avoid:
 - Empty SEO phrasing: best-in-class, powerful solution, all-in-one solution, seamless experience.
 - Fake drama: "not just X, but Y", "the future of websites", "game changer".
 - Vague claims that do not name the product surface or user outcome.
+
+## Anti-Slop Pass
+
+Before returning copy, revise it so it sounds like a sharp Framer writer, not a generic AI assistant.
+
+Cut:
+
+- Throat-clearing openings, filler transitions, and "here's what" setups.
+- Adverbs and softeners that do not change meaning.
+- Formulaic contrasts such as "not X, but Y"; state the useful claim directly.
+- Pull-quote lines that sound written for effect instead of clarity.
+- Meta narration about what the page, section, or paragraph is about to do.
+- Em dashes. Use commas, periods, or simpler sentence structure.
+
+Rewrite:
+
+- Passive or actorless lines into active sentences with a real subject.
+- Inanimate abstractions doing human work into concrete product or user actions.
+- Vague claims into named Framer surfaces, tasks, or outcomes.
+- "People" or "teams" at a distance into reader-facing copy when the page explains a workflow.
+- Repeated three-part rhythms into tighter one- or two-part phrasing when the third item adds little.
+
+Check rhythm:
+
+- Mix short and medium sentences.
+- Avoid three consecutive sentences with the same shape.
+- Do not end every paragraph with a punchline.
+- Keep paragraphs direct, but not clipped into dramatic fragments.
 
 ## Terminology
 
@@ -293,5 +321,6 @@ Before returning or publishing copy, check:
 - The page links to current canonical Framer URLs.
 - Answer-oriented pages use a question or intent-led H1, a short answer, scannable sections, FAQs, and schema when useful.
 - The copy avoids filler, vague hype, and generic SaaS language.
+- The copy passes the anti-slop pass: active subjects, concrete Framer nouns, varied rhythm, no throat-clearing, no formulaic contrasts, no em dashes.
 - FAQs answer real questions directly.
 - Metadata uses the primary query and gives a clear reason to click.
