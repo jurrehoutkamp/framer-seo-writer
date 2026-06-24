@@ -24,6 +24,12 @@ Invoke the skill in Claude Code with:
 
 If Codex or Claude Code was already running, restart it if the skill does not appear.
 
+## Update
+
+When this skill changes, rerun the install command above. It downloads the latest `framer-seo-writer.zip`, removes the old local `framer-seo-writer` skill folder, and installs the new copy for both Codex and Claude Code.
+
+If a current session already used the skill, start a new session so the updated instructions are loaded.
+
 ## What It Helps With
 
 - Framer feature, solution, comparison, and answer-oriented pages
