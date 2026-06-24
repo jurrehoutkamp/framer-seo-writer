@@ -4,11 +4,20 @@ Framer SEO Writer is a Codex skill for writing and revising Framer marketing pag
 
 ## Install
 
-Download `framer-seo-writer.zip` from the hosted page, then run:
+Copy this command into Codex, Claude, or a terminal on macOS/Linux:
 
 ```bash
-mkdir -p "${CODEX_HOME:-$HOME/.codex}/skills"
-unzip framer-seo-writer.zip -d "${CODEX_HOME:-$HOME/.codex}/skills"
+INSTALL_DIR="${CODEX_HOME:-$HOME/.codex}/skills"; TMP_ZIP="$(mktemp -t framer-seo-writer.XXXXXX).zip"; curl -L "https://github.com/jurrehoutkamp/framer-seo-writer/raw/main/framer-seo-writer.zip" -o "$TMP_ZIP" && mkdir -p "$INSTALL_DIR" && rm -rf "$INSTALL_DIR/framer-seo-writer" && unzip -q "$TMP_ZIP" -d "$INSTALL_DIR" && rm "$TMP_ZIP"
 ```
 
-Restart Codex, then invoke the skill with `$framer-seo-writer`.
+Restart Codex, then invoke the skill with:
+
+```text
+$framer-seo-writer
+```
+
+## What It Helps With
+
+- Framer feature, solution, comparison, and answer-oriented pages
+- SEO/AEO structure, metadata, FAQs, and internal linking
+- Product-specific positioning for Framer AI, Framer Agents, CMS, hosting, SEO, performance, and publishing
